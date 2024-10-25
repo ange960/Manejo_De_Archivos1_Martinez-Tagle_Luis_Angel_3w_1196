@@ -21,15 +21,17 @@ programa4:demofile3.txt
 ![image](https://github.com/user-attachments/assets/b9ff0277-dd37-491e-af1d-54dd55b2d957)
 
 programa5:elimina archivos 
+
 ![image](https://github.com/user-attachments/assets/ab9f6dd5-4408-4eb6-8a87-feb5a405aa0a)
 
 ![image](https://github.com/user-attachments/assets/4bac0703-94db-45f7-904d-385bba55df7d)
 
 ![image](https://github.com/user-attachments/assets/48232119-c0af-4808-9039-e11b7298482d)
 
-![image](https://github.com/user-attachments/assets/c877c525-4b31-4747-80a1-8d607794ca1a)}
+![image](https://github.com/user-attachments/assets/c877c525-4b31-4747-80a1-8d607794ca1a)
 
 programa6:eliminar folder
+
 ![image](https://github.com/user-attachments/assets/90249354-ea45-41cc-b667-ed800f8c5a22)
 
 ![image](https://github.com/user-attachments/assets/884f7fd7-95f6-4210-a120-2829ce6ccc2a)
