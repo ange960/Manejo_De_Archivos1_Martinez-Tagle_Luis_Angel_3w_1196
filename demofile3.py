@@ -1,5 +1,5 @@
 print(" ") # print imprime un espacio
-print("Sanchez Perez briana Sarahi, 1213, 3W")
+print("Martinez Tagle Luis Angel 3w 1196")#imprime el nombre del programador y  el numero de control 
 print(" ") # print imprime un espacio
 
 f = open("demofile3.txt", "w") # abriendo mi archivo de texo para solo en escribir
